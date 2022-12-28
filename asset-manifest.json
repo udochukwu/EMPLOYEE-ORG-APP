@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employee-org-app/static/css/main.736b1b13.css",
+    "main.js": "/employee-org-app/static/js/main.f0be5754.js",
+    "static/js/787.465b696a.chunk.js": "/employee-org-app/static/js/787.465b696a.chunk.js",
+    "index.html": "/employee-org-app/index.html",
+    "main.736b1b13.css.map": "/employee-org-app/static/css/main.736b1b13.css.map",
+    "main.f0be5754.js.map": "/employee-org-app/static/js/main.f0be5754.js.map",
+    "787.465b696a.chunk.js.map": "/employee-org-app/static/js/787.465b696a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736b1b13.css",
+    "static/js/main.f0be5754.js"
+  ]
+}
