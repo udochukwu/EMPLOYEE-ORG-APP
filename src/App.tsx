@@ -30,7 +30,6 @@ function App() {
       </>
     );
   };
-  console.log(employee, supervisor);
   return (
     <div className='container'>
       <div className='row my-5'>
@@ -43,7 +42,7 @@ function App() {
               onChange={(e) => setEmployee(e.target.value)}
             >
               <option>Select employee</option>
-              {employees.map((employee) => (
+              {employees.filter(e => e.id !== 1).map((employee) => (
                 <option key={employee.id} value={employee.id}>
                   {employee?.name}
                 </option>
